@@ -28,7 +28,7 @@ const UserDropdown = () => {
         <DropdownMenu>
             <DropdownMenuTrigger asChild>
                 <Button variant={"ghost"}
-                        className={"flex items-center gap-3 tex-gray-4 hover:text-yellow-500"}
+                        className={"flex items-center gap-3 tex-gray-400 hover:text-yellow-500"}
                 >
                     <Avatar className={"h-8 w-8"}>
                         <AvatarImage src="https://github.com/shadcn.png"/>
